@@ -1,0 +1,9 @@
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/uninstall.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/turtlebot4_simulator_uninstall.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/test.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/edit_cache.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/rebuild_cache.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/list_install_components.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/install.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/install/local.dir
+/home/poonam/object_detection/build/turtlebot4_simulator/CMakeFiles/install/strip.dir

@@ -1,0 +1,45 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"Turtlebot4Hmi/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 54,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/turtlebot4_ignition_gui_plugins/lib",
+			"paths" : 
+			[
+				"Turtlebot4Hmi/libTurtlebot4Hmi.so"
+			],
+			"targetId" : "Turtlebot4Hmi::@7ab402902ed6000adbb3",
+			"targetIndex" : 0,
+			"type" : "target"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "Turtlebot4Hmi",
+		"source" : "Turtlebot4Hmi"
+	}
+}

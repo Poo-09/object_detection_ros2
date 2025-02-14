@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Turtlebot4Hmi/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "Turtlebot4Hmi_autogen::@7ab402902ed6000adbb3",
+	"isGeneratorProvided" : true,
+	"name" : "Turtlebot4Hmi_autogen",
+	"paths" : 
+	{
+		"build" : "Turtlebot4Hmi",
+		"source" : "Turtlebot4Hmi"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins/Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins/Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi_autogen.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

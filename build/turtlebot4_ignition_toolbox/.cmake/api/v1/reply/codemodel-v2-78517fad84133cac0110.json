@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-ae74ee0da003d10d9498.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "turtlebot4_ignition_toolbox",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_ignition_hmi_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_ignition_hmi_node-68f00ada3430cfae497d.json",
+					"name" : "turtlebot4_ignition_hmi_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_ignition_toolbox_lib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_ignition_toolbox_lib-711288606a62bae6f470.json",
+					"name" : "turtlebot4_ignition_toolbox_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_ignition_toolbox_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_ignition_toolbox_uninstall-a3106b3edb2343b4530c.json",
+					"name" : "turtlebot4_ignition_toolbox_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-9499b999728ab830009a.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/poonam/object_detection/build/turtlebot4_ignition_toolbox",
+		"source" : "/home/poonam/object_detection/src/turtlebot4_simulator/turtlebot4_ignition_toolbox"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

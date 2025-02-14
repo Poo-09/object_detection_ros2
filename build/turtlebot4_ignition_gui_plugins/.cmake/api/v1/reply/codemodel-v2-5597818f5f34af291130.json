@@ -1,0 +1,108 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-15972f38c212276a578f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						3
+					]
+				},
+				{
+					"build" : "Turtlebot4Hmi",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-Turtlebot4Hmi-0114d429dddf332eb55c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Turtlebot4Hmi",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "turtlebot4_ignition_gui_plugins",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Turtlebot4Hmi::@7ab402902ed6000adbb3",
+					"jsonFile" : "target-Turtlebot4Hmi-d1863e06ecdec995b13d.json",
+					"name" : "Turtlebot4Hmi",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Turtlebot4Hmi_autogen::@7ab402902ed6000adbb3",
+					"jsonFile" : "target-Turtlebot4Hmi_autogen-673a68ef1c243d08450d.json",
+					"name" : "Turtlebot4Hmi_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "turtlebot4_ignition_gui_plugins_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-turtlebot4_ignition_gui_plugins_uninstall-f5da8be418ab4273a122.json",
+					"name" : "turtlebot4_ignition_gui_plugins_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-5a628a2f6f8da606c691.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins",
+		"source" : "/home/poonam/object_detection/src/turtlebot4_simulator/turtlebot4_ignition_gui_plugins"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

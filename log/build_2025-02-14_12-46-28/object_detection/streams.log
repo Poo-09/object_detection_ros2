@@ -1,0 +1,37 @@
+[0.530s] Invoking command in '/home/poonam/object_detection/src/object_detection': PYTHONPATH=/home/poonam/object_detection/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/poonam/object_detection/build/object_detection/build install --record /home/poonam/object_detection/build/object_detection/install.log --single-version-externally-managed install_data
+[0.713s] running egg_info
+[0.714s] creating ../../build/object_detection/object_detection.egg-info
+[0.714s] writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+[0.714s] writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+[0.714s] writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+[0.714s] writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+[0.714s] writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+[0.717s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[0.720s] reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[0.720s] writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+[0.720s] running build
+[0.720s] running build_py
+[0.721s] creating /home/poonam/object_detection/build/object_detection/build
+[0.721s] creating /home/poonam/object_detection/build/object_detection/build/lib
+[0.721s] creating /home/poonam/object_detection/build/object_detection/build/lib/object_detection
+[0.721s] copying object_detection/__init__.py -> /home/poonam/object_detection/build/object_detection/build/lib/object_detection
+[0.721s] copying object_detection/detect.py -> /home/poonam/object_detection/build/object_detection/build/lib/object_detection
+[0.721s] running install
+[0.721s] running install_lib
+[0.722s] creating /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[0.722s] copying /home/poonam/object_detection/build/object_detection/build/lib/object_detection/__init__.py -> /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[0.722s] copying /home/poonam/object_detection/build/object_detection/build/lib/object_detection/detect.py -> /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+[0.723s] byte-compiling /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+[0.723s] byte-compiling /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/detect.py to detect.cpython-310.pyc
+[0.724s] running install_data
+[0.724s] creating /home/poonam/object_detection/install/object_detection/share/ament_index
+[0.724s] creating /home/poonam/object_detection/install/object_detection/share/ament_index/resource_index
+[0.724s] creating /home/poonam/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[0.724s] copying resource/object_detection -> /home/poonam/object_detection/install/object_detection/share/ament_index/resource_index/packages
+[0.725s] copying package.xml -> /home/poonam/object_detection/install/object_detection/share/object_detection
+[0.725s] running install_egg_info
+[0.726s] Copying ../../build/object_detection/object_detection.egg-info to /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+[0.727s] running install_scripts
+[0.749s] Installing detect script to /home/poonam/object_detection/install/object_detection/lib/object_detection
+[0.750s] writing list of installed files to '/home/poonam/object_detection/build/object_detection/install.log'
+[0.777s] Invoked command in '/home/poonam/object_detection/src/object_detection' returned '0': PYTHONPATH=/home/poonam/object_detection/build/object_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/object_detection build --build-base /home/poonam/object_detection/build/object_detection/build install --record /home/poonam/object_detection/build/object_detection/install.log --single-version-externally-managed install_data

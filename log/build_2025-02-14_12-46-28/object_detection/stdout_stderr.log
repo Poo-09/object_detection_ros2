@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/object_detection/object_detection.egg-info
+writing ../../build/object_detection/object_detection.egg-info/PKG-INFO
+writing dependency_links to ../../build/object_detection/object_detection.egg-info/dependency_links.txt
+writing entry points to ../../build/object_detection/object_detection.egg-info/entry_points.txt
+writing requirements to ../../build/object_detection/object_detection.egg-info/requires.txt
+writing top-level names to ../../build/object_detection/object_detection.egg-info/top_level.txt
+writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+reading manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+writing manifest file '../../build/object_detection/object_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/poonam/object_detection/build/object_detection/build
+creating /home/poonam/object_detection/build/object_detection/build/lib
+creating /home/poonam/object_detection/build/object_detection/build/lib/object_detection
+copying object_detection/__init__.py -> /home/poonam/object_detection/build/object_detection/build/lib/object_detection
+copying object_detection/detect.py -> /home/poonam/object_detection/build/object_detection/build/lib/object_detection
+running install
+running install_lib
+creating /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+copying /home/poonam/object_detection/build/object_detection/build/lib/object_detection/__init__.py -> /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+copying /home/poonam/object_detection/build/object_detection/build/lib/object_detection/detect.py -> /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection
+byte-compiling /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection/detect.py to detect.cpython-310.pyc
+running install_data
+creating /home/poonam/object_detection/install/object_detection/share/ament_index
+creating /home/poonam/object_detection/install/object_detection/share/ament_index/resource_index
+creating /home/poonam/object_detection/install/object_detection/share/ament_index/resource_index/packages
+copying resource/object_detection -> /home/poonam/object_detection/install/object_detection/share/ament_index/resource_index/packages
+copying package.xml -> /home/poonam/object_detection/install/object_detection/share/object_detection
+running install_egg_info
+Copying ../../build/object_detection/object_detection.egg-info to /home/poonam/object_detection/install/object_detection/lib/python3.10/site-packages/object_detection-0.0.0-py3.10.egg-info
+running install_scripts
+Installing detect script to /home/poonam/object_detection/install/object_detection/lib/object_detection
+writing list of installed files to '/home/poonam/object_detection/build/object_detection/install.log'

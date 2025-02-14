@@ -1,0 +1,125 @@
+[0.014s] Invoking command in '/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/poonam/object_detection/src/turtlebot4_simulator/turtlebot4_ignition_gui_plugins -DCMAKE_INSTALL_PREFIX=/home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins
+[0.095s] -- The C compiler identification is GNU 11.4.0
+[0.159s] -- The CXX compiler identification is GNU 11.4.0
+[0.166s] -- Detecting C compiler ABI info
+[0.220s] -- Detecting C compiler ABI info - done
+[0.226s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.227s] -- Detecting C compile features
+[0.228s] -- Detecting C compile features - done
+[0.231s] -- Detecting CXX compiler ABI info
+[0.287s] -- Detecting CXX compiler ABI info - done
+[0.292s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.292s] -- Detecting CXX compile features
+[0.293s] -- Detecting CXX compile features - done
+[0.297s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.407s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.490s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.600s] -- Looking for ignition-gui6 -- found version 6.8.0
+[0.608s] -- Searching for dependencies of ignition-gui6
+[0.738s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[0.742s] -- Checking for module 'tinyxml2'
+[0.750s] --   Found tinyxml2, version 9.0.0
+[0.773s] -- Looking for ignition-math6 -- found version 6.15.1
+[0.773s] -- Searching for dependencies of ignition-math6
+[0.777s] -- Looking for ignition-common4 -- found version 4.7.0
+[0.777s] -- Searching for dependencies of ignition-common4
+[0.778s] -- Looking for dlfcn.h - found
+[0.779s] -- Looking for libdl - found
+[0.780s] -- Found DL: TRUE  
+[0.784s] -- Checking for module 'uuid'
+[0.793s] --   Found uuid, version 2.37.2
+[0.814s] -- Found UUID: TRUE  
+[0.814s] -- Searching for <ignition-common4> component [profiler]
+[0.816s] -- Looking for ignition-common4-profiler -- found version 4.7.0
+[0.817s] -- Searching for dependencies of ignition-common4-profiler
+[0.820s] -- Looking for ignition-plugin1 -- found version 1.4.0
+[0.820s] -- Searching for dependencies of ignition-plugin1
+[0.821s] -- Searching for <ignition-plugin1> component [loader]
+[0.823s] -- Looking for ignition-plugin1-loader -- found version 1.4.0
+[0.823s] -- Searching for dependencies of ignition-plugin1-loader
+[0.823s] -- Searching for <ignition-plugin1> component [register]
+[0.826s] -- Looking for ignition-plugin1-register -- found version 1.4.0
+[0.827s] -- Searching for dependencies of ignition-plugin1-register
+[0.830s] -- Looking for ignition-transport11 -- found version 11.4.1
+[0.830s] -- Searching for dependencies of ignition-transport11
+[0.845s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[0.853s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[0.857s] -- Checking for module 'libzmq >= 4'
+[0.868s] --   Found libzmq , version 4.3.4
+[0.891s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[0.902s] -- Looking for ignition-utils1 -- found version 1.5.1
+[0.902s] -- Searching for dependencies of ignition-utils1
+[0.903s] -- Searching for <ignition-utils1> component [cli]
+[0.905s] -- Looking for ignition-utils1-cli -- found version 1.5.1
+[0.905s] -- Searching for dependencies of ignition-utils1-cli
+[0.907s] -- Looking for ignition-msgs8 -- found version 8.7.0
+[0.908s] -- Searching for dependencies of ignition-msgs8
+[0.921s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[0.921s] -- Looking for ignition-math6 -- found version 6.15.1
+[0.931s] -- Looking for ignition-rendering6 -- found version 6.6.3
+[0.931s] -- Searching for dependencies of ignition-rendering6
+[0.931s] -- Looking for ignition-math6 -- found version 6.15.1
+[0.931s] -- Searching for dependencies of ignition-math6
+[0.931s] -- Searching for <ignition-math6> component [eigen3]
+[0.933s] -- Looking for ignition-math6-eigen3 -- found version 6.15.1
+[0.933s] -- Searching for dependencies of ignition-math6-eigen3
+[0.940s] -- Looking for ignition-common4 -- found version 4.7.0
+[0.940s] -- Searching for dependencies of ignition-common4
+[0.940s] -- Looking for dlfcn.h - found
+[0.940s] -- Looking for libdl - found
+[0.947s] -- Searching for <ignition-common4> component [graphics]
+[0.949s] -- Looking for ignition-common4-graphics -- found version 4.7.0
+[0.949s] -- Searching for dependencies of ignition-common4-graphics
+[0.949s] -- Looking for ignition-math6 -- found version 6.15.1
+[0.949s] -- Looking for ignition-utils1 -- found version 1.5.1
+[0.950s] -- Searching for <ignition-common4> component [events]
+[0.952s] -- Looking for ignition-common4-events -- found version 4.7.0
+[0.952s] -- Searching for dependencies of ignition-common4-events
+[0.953s] -- Looking for ignition-math6 -- found version 6.15.1
+[0.953s] -- Looking for ignition-plugin1 -- found version 1.4.0
+[0.954s] -- Searching for dependencies of ignition-plugin1
+[0.954s] -- Searching for <ignition-plugin1> component [all]
+[0.956s] -- Looking for all libraries of ignition-plugin1 -- found version 1.4.0
+[0.956s] -- Looking for ignition-plugin1 -- found version 1.4.0
+[0.958s] -- Looking for ignition-msgs8 -- found version 8.7.0
+[0.961s] -- Looking for ignition-common4 -- found version 4.7.0
+[0.965s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.965s] -- Configured cppcheck include dirs: 
+[0.965s] -- Configured cppcheck exclude dirs and/or files: 
+[0.965s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.965s] -- Configured cpplint exclude dirs and/or files: 
+[0.966s] -- Added test 'lint_cmake' to check CMake code style
+[0.967s] -- Added test 'xmllint' to check XML markup files
+[0.968s] -- Configuring done
+[0.978s] -- Generating done
+[0.980s] -- Build files have been written to: /home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins
+[0.988s] Invoked command in '/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/poonam/object_detection/src/turtlebot4_simulator/turtlebot4_ignition_gui_plugins -DCMAKE_INSTALL_PREFIX=/home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins
+[0.990s] Invoking command in '/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins -- -j8 -l8
+[1.023s] [ 16%] [34m[1mAutomatic MOC for target Turtlebot4Hmi[0m
+[2.573s] [ 16%] Built target Turtlebot4Hmi_autogen
+[2.580s] [ 33%] [34m[1mGenerating qrc_Turtlebot4Hmi.cpp[0m
+[2.599s] [ 66%] [32mBuilding CXX object Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/qrc_Turtlebot4Hmi.cpp.o[0m
+[2.600s] [ 66%] [32mBuilding CXX object Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/Turtlebot4Hmi_autogen/mocs_compilation.cpp.o[0m
+[2.602s] [ 83%] [32mBuilding CXX object Turtlebot4Hmi/CMakeFiles/Turtlebot4Hmi.dir/Turtlebot4Hmi.cc.o[0m
+[8.669s] [100%] [32m[1mLinking CXX shared library libTurtlebot4Hmi.so[0m
+[8.983s] [100%] Built target Turtlebot4Hmi
+[8.992s] Invoked command in '/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins -- -j8 -l8
+[9.000s] Invoking command in '/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins
+[9.006s] -- Install configuration: ""
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/ament_index/resource_index/package_run_dependencies/turtlebot4_ignition_gui_plugins
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/ament_index/resource_index/parent_prefix_path/turtlebot4_ignition_gui_plugins
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/environment/ament_prefix_path.sh
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/environment/ament_prefix_path.dsv
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/environment/path.sh
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/environment/path.dsv
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/local_setup.bash
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/local_setup.sh
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/local_setup.zsh
+[9.006s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/local_setup.dsv
+[9.007s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/package.dsv
+[9.007s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/ament_index/resource_index/packages/turtlebot4_ignition_gui_plugins
+[9.007s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/cmake/turtlebot4_ignition_gui_pluginsConfig.cmake
+[9.007s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/cmake/turtlebot4_ignition_gui_pluginsConfig-version.cmake
+[9.007s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/package.xml
+[9.007s] -- Installing: /home/poonam/object_detection/install/turtlebot4_ignition_gui_plugins/share/turtlebot4_ignition_gui_plugins/lib/libTurtlebot4Hmi.so
+[9.010s] Invoked command in '/home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/poonam/object_detection/build/turtlebot4_ignition_gui_plugins
