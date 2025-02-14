@@ -34,7 +34,7 @@ This project demonstrates an object detection and tracking pipeline in ROS 2 usi
    ros2 run object_detection detect
 
 
-**Use rqt_image_view to see the annotated image:**
- ```bash
+Use rqt_image_view to see the annotated image:
+
 ros2 run rqt_image_view rqt_image_view
 
