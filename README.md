@@ -42,3 +42,13 @@ This project demonstrates an object detection and tracking pipeline in ROS 2 usi
   Install them using pip:
   ```bash
   pip install opencv-python numpy ultralytics
+
+
+## Running the Simulation
+
+ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py
+ros2 run object_detection detect
+
+**Use rqt_image_view to see the annotated image:**
+ros2 run rqt_image_view rqt_image_view
+
