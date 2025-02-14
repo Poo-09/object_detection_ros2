@@ -2,22 +2,6 @@
 
 This project demonstrates an object detection and tracking pipeline in ROS 2 using YOLOv8 and OpenCV. The system processes a live camera feed from a simulated TurtleBot4 running in Gazebo (or Ignition), detects objects (e.g., persons, bottles, etc.), tracks them over time using a simple centroid tracker, and publishes detection and tracking information as ROS 2 topics.
 
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Workspace Structure](#workspace-structure)
-- [Building the Workspace](#building-the-workspace)
-- [Running the Simulation](#running-the-simulation)
-  - [Launching TurtleBot4 in Gazebo Classic](#launching-turtlebot4-in-gazebo-classic)
-- [Running Object Detection & Tracking](#running-object-detection--tracking)
-- [ROS 2 Integration](#ros-2-integration)
-- [Teleoperation (Optional)](#teleoperation-optional)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
