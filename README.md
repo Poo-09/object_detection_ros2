@@ -31,8 +31,8 @@ This project demonstrates an object detection and tracking pipeline in ROS 2 usi
 ## Running the Simulation
  ```bash
 ros2 launch turtlebot4_ignition_bringup turtlebot4_ignition.launch.py
- ```bash
 ros2 run object_detection detect
+
 
 **Use rqt_image_view to see the annotated image:**
  ```bash
